@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+
 <h1 align="center">Hi 👋, I'm Osama Seid</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>![github-header-image](https://github.com/Osamaseid/osamaseid/assets/119799518/c4f54cf2-ed84-4a54-a974-50cb00356be4)
 
