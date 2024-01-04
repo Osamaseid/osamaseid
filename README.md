@@ -1,6 +1,8 @@
 
+
+![github-header-image](https://github.com/Osamaseid/osamaseid/assets/119799518/c4f54cf2-ed84-4a54-a974-50cb00356be4)
 <h1 align="center">Hi 👋, I'm Osama Seid</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>![github-header-image](https://github.com/Osamaseid/osamaseid/assets/119799518/c4f54cf2-ed84-4a54-a974-50cb00356be4)
+<h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbbl.com/users/1162077/screenshots/3848914/programmer.gif">
 
