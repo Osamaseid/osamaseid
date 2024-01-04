@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Osama Seid</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" alt="coding" width="400" src="[https://stock.adobe.com/search?k=programmer+cartoon](https://www.google.com/search?q=animated+coding+images&tbm=isch&hl=en&rlz=1C1GCEA_enRO1052ET1085&sa=X&ved=2ahUKEwjupoWQ2MODAxU6kCcCHX7wBQUQrNwCKAB6BQgBEP4C&biw=1067&bih=604#imgrc=ZmOH4FBlhx83-M)">
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+coding+images&tbm=isch&hl=en&rlz=1C1GCEA_enRO1052ET1085&sa=X&ved=2ahUKEwjupoWQ2MODAxU6kCcCHX7wBQUQrNwCKAB6BQgBEP4C&biw=1067&bih=604#imgrc=ZmOH4FBlhx83-M)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamaseid&label=Profile%20views&color=0e75b6&style=flat" alt="osamaseid" /> </p>
