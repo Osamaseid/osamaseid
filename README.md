@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/osama seid" target="blank"><img src="https://img.shields.io/twitter/follow/osama seid?logo=twitter&style=for-the-badge" alt="osama seid" /></a> </p>
 
-- 🌱 I’m currently learning **React , git**
+- 🌱 I’m currently learning **React.js, Flutter, Git**
 
 - 💬 Ask me about **javascript**
 
