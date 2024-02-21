@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Osama Seid</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamaseid&label=Profile%20views&color=0e75b6&style=flat" alt="osamaseid" /> </p>
 
 <p align="left"> <a href="https://twitter.com/osama seid" target="blank"><img src="https://img.shields.io/twitter/follow/osama seid?logo=twitter&style=for-the-badge" alt="osama seid" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Flutter, Git**
+- 🌱 I’m currently learning **React.js, Python, Git**
 
 - 💬 Ask me about **javascript**
 
