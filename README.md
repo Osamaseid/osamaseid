@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
 <h1 align="center">Hi 👋, I'm Osama Seid</h1>
 <h3 align="center">A passionate developer from Ethiopia</h3>
 
