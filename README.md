@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <h1 align="center">Hi 👋, I'm Osama Seid</h1>
 <h3 align="center">Software Engineering Student @ Jimma University</h3>
 
@@ -25,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osamaseid&show_icons=true&locale=en" alt="osamaseid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osamaseid&" alt="osamaseid" /></p>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
