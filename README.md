@@ -86,12 +86,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=emotion" height="35" width="35" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="35" width="35" />
-  </a>
-  <a href="https://expo.dev/">
-  <img src="https://avatars.githubusercontent.com/u/62702930?s=280&v=4" height="35" width="35" style="border-radius: 50%;" alt="Expo" />
-</a>
+  
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -113,15 +108,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman" height="35" width="35" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite" height="35" width="35" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux" height="35" width="35" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux" height="35" width="35" />
-  </a>
+  
 </p>
 
 
@@ -130,19 +117,19 @@
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div style="text-align: center; flex: 1;">
     <h3>Stats Graph</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=Beki78&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&PAT_1" height="180" alt="stats graph"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=osamaseid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&PAT_1" height="180" alt="stats graph"/>
   </div>
 
   <div style="text-align: center; flex: 1;">
     <h3>Languages Graph</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Beki78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false" height="180" alt="languages graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osamaseid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false" height="180" alt="languages graph"/>
   </div>
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <div style="text-align: center;">
     <h3>Streak Graph</h3>
-    <img src="https://streak-stats.demolab.com?user=Beki78&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"/>
+    <img src="https://streak-stats.demolab.com?user=osamaseid&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"/>
   </div>
 </div>
 
