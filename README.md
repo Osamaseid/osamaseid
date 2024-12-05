@@ -30,9 +30,6 @@
 [![](https://visitcount.itsvg.in/api?id=osamaseid&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🏆 My Contributions
-
-<img alt="snake gif dark" src="https://raw.githubusercontent.com/osamaseid/osamaseid/output/github-contribution-grid-snake-dark.svg" />
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
