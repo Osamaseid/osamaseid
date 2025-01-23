@@ -129,14 +129,14 @@
 
   <div style="text-align: center; flex: 1;">
     <h3>Languages Graph</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Beki78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false" height="180" alt="languages graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osamaseid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false" height="180" alt="languages graph"/>
   </div>
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <div style="text-align: center;">
     <h3>Streak Graph</h3>
-    <img src="https://streak-stats.demolab.com?user=Beki78&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"/>
+    <img src="https://streak-stats.demolab.com?user=osamaseid&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"/>
   </div>
 </div>
 
