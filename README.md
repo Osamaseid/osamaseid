@@ -1,3 +1,13 @@
+## 🧠 SYSTEM STATUS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osamaseid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaseid&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaseid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
+</p>
 
 <h1 align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+osama+seid!;" />
