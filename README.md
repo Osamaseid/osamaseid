@@ -16,9 +16,31 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=osamaseid&show_icons=true&theme=radical)
+## 🚀 GitHub Activity
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=osamaseid&layout=compact&theme=radical)
+### 📅 Contribution Graph
+[![Osama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=osamaseid&theme=tokyo-night)](https://github.com/osamaseid)
+
+---
+
+### 🧠 Profile Info
+
+- 👨‍💻 Username: **osamaseid**
+- 🐍 Backend Developer (Django)
+- 🔥 Consistent learner
+- 🚀 Building real-world systems
+
+---
+
+### 📌 Pinned Projects
+➡️ Pin your best repos on your GitHub profile  
+(GitHub → Customize profile → Pin repositories)
+
+---
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=osamaseid&color=blue)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
