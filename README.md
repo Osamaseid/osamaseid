@@ -16,13 +16,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osamaseid&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=osamaseid&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=osamaseid&theme=radical&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaseid&layout=compact&theme=radical&cache_seconds=1800)
-
-
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=osamaseid&layout=compact&theme=radical)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
