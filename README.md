@@ -17,11 +17,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaseid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-## 🧬 CONTRIBUTION ACTIVITY
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://komarev.com/ghpvc/?username=osamaseid&label=Profile+Views&color=00F7FF&style=for-the-badge" />
 </p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
