@@ -38,5 +38,3 @@
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=osamaseid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaseid&theme=tokyonight&hide_border=true&background=0D1117" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaseid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/> </p>
-
