@@ -1,10 +1,3 @@
-## 🧠 SYSTEM STATUS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamaseid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaseid&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF" height="170"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaseid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
 </p>
@@ -24,6 +17,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaseid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+## 🧬 CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
