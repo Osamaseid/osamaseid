@@ -1,3 +1,28 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=OSAMA+SEID;SOFTWARE+ENGINEER;DJANGO+BACKEND+ARCHITECT;BUILDING+THE+FUTURE" />
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,100:2c5364&height=140&section=header&text=SYSTEM%20INITIALIZED&fontSize=30&fontColor=00F7FF"/>
+</p>
+
+---
+
+## 🧠 3D ENGINEER PROFILE
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+</p>
+
+```yaml
+Name: Osama Seid
+Role: Software Engineer
+Specialty: Backend Engineering
+Main Framework: Django ⚡
+Mission: Engineer scalable systems for real-world impact
+Mode: Continuous Evolution 🔄
+
+
 <h1 align="center">Hi there 👋, I'm Osama Seid</h1>
 <h3 align="center">🚀 Software Engineer | Django Developer | Problem Solver</h3>
 
