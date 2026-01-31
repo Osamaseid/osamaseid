@@ -8,79 +8,9 @@
 
 ---
 
-## 🧠 3D ENGINEER PROFILE
-
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 </p>
-
-```yaml
-Name: Osama Seid
-Role: Software Engineer
-Specialty: Backend Engineering
-Main Framework: Django ⚡
-Mission: Engineer scalable systems for real-world impact
-Mode: Continuous Evolution 🔄
-
-
-<h1 align="center">Hi there 👋, I'm Osama Seid</h1>
-<h3 align="center">🚀 Software Engineer | Django Developer | Problem Solver</h3>
-
-<p align="center">
-  <a href="mailto:osaseid1@gmail.com">📧 Email</a> •
-  <a href="https://github.com/osamaseid">💻 GitHub</a>
-</p>
-
----
-
-### 👨‍💻 About Me
-- 🎯 Passionate about **Software Engineering**
-- 🐍 Specialized in **Python & Django**
-- 🧠 Love building **real-world backend systems**
-- 📚 Always learning and improving my skills
-- 🌍 Interested in solving problems with technology
-
----
-
-### 🛠 Tech Stack
-
-**Languages & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css" />
-</p>
-
-**Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
-</p>
-
-**Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamaseid&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaseid&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaseid&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🚀 Current Focus
-```diff
-+ Building powerful backend systems with Django
-+ Learning advanced API development
-+ Improving system design & architecture skills
-
-
 
 
 <h1 align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
