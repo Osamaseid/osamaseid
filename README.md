@@ -8,7 +8,7 @@
 - 💬 Ask me about **Django**
 
 - 📫 How to reach me **osaseid1@gmail.com**
-
+---
 
 ###GitHub Overview
 
