@@ -1,12 +1,29 @@
+<!-- TOP ANIMATED NAME -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=OSAMA+SEID;SOFTWARE+ENGINEER;DJANGO+BACKEND+ARCHITECT;BUILDING+THE+FUTURE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=OSAMA+SEID;SYSTEMS+ENGINEER;DJANGO+BACKEND+ARCHITECT;INITIALIZING+FUTURE..." />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,100:2c5364&height=140&section=header&text=SYSTEM%20INITIALIZED&fontSize=30&fontColor=00F7FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000428,100:004e92&height=160&section=header&text=NEURAL%20ENGINEERING%20CORE&fontSize=30&fontColor=00F7FF&animation=fadeIn"/>
 </p>
 
 ---
+
+## 🧠 DIGITAL IDENTITY MODULE
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="250"/>
+</p>
+
+```yaml
+Agent: Osama Seid
+Class: Software Engineer
+Division: Backend Systems
+Primary Engine: Django ⚡
+Secondary Systems: Databases • APIs • Architecture
+Status: Building the future one system at a time
+Threat Level: Problem Solver 🔥
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
