@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaseid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
-</p>
-
 <h1 align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+osama+seid!;" />
 </h1>
@@ -17,9 +13,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaseid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=osamaseid&label=Profile+Views&color=00F7FF&style=for-the-badge" />
-</p>
+## 📊 GitHub Stats
+
+![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaseid&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=osamaseid&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaseid&layout=compact&theme=tokyonight)
+
 
 
 
