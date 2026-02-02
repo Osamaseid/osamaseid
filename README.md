@@ -3,14 +3,10 @@
 </h1>
 <h3 align="center">A passionate Software engineer</h3>
 
-- 🌱 I’m currently learning **Software engineering**
-
-- 💬 Ask me about **Django**
-
 - 📫 How to reach me **osaseid1@gmail.com**
 ---
 
-📅 GitHub Overview
+ GitHub Overview
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=osamaseid&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaseid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -19,7 +15,7 @@
 
 
 
-### 📅 Contribution Graph
+### Contribution Graph
 [![Osama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=osamaseid&theme=tokyo-night)](https://github.com/osamaseid)
 
 
