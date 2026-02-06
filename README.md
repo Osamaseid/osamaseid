@@ -1,24 +1,18 @@
-<h1 align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+osama+seid!;" />
-</h1>
-<h3 align="center">A passionate Software engineer</h3>
+<h1 align="center">Hi 👋, I'm osama seid</h1>
+<h3 align="center">A passionate developer</h3>
+
+- 🌱 I’m currently learning **software Development**
+
+- 👨‍💻 All of my projects are available at [https://osama-b0j5.onrender.com/](https://osama-b0j5.onrender.com/)
 
 - 📫 How to reach me **osaseid1@gmail.com**
----
 
- GitHub Overview
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/osamaseid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osamaseid" height="30" width="40" /></a>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=osamaseid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaseid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-
-
-### Contribution Graph
-[![Osama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=osamaseid&theme=tokyo-night)](https://github.com/osamaseid)
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osamaseid&" alt="osamaseid" /></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
